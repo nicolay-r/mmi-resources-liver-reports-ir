@@ -1,1 +1,1 @@
-# [Please use the following link to `mmi-reports` project](https://github.com/nicolay-r/mmi-resources)
+# [Please use the following link to `NLP-MMI-resources` project](https://github.com/nicolay-r/NLP-MMI-resources)
