@@ -1,2 +1,1 @@
-# mmi-resources-liver-reports-ir
-Mirror to the mmi-reports project.
+# [Please use the following link to `mmi-reports` project](https://github.com/nicolay-r/mmi-resources)
